@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
           ),
           backgroundColor: const Color.fromARGB(255, 207, 184, 35),
         ),
-        body: CurrencyConverterPage(),
+        body: CurrencyConverterMaterialPage(),
       ),
     );
   }
